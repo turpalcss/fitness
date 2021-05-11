@@ -386,7 +386,7 @@ form .fa:hover {
 }
 
 .article-content {
-    padding: 15px 0;
+    padding: 15px 10px;
 }
 
 .work-article-content:hover .article-content a {
